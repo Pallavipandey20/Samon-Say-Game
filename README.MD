@@ -1,3 +1,3 @@
 # New Project
 
-this projected is create by me 
+this project is create by Pallavi Pandey.
